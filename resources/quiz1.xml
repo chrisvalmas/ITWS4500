@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<webSystems xmlns:html="http://www.w3.org/1999/xhtml">
+	<labs>
+		<lab>
+			<link>./projects/labs/lab1</link>
+			<labNum>Lab 1</labNum>
+			<name>Configuration of Apache</name>
+			<description>Installing stack and setting up virtual host</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab2</link>
+			<labNum>Lab 2</labNum>
+			<name>Playlist</name>
+			<description>My favorite songs using CSS, XML and HTML</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab3</link>
+			<labNum>Lab 3</labNum>
+			<name>Javascript/DOM</name>
+			<description>Learning Javascript (cloning, recursing)</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab4</link>
+			<labNum>Lab 4</labNum>
+			<name>AJAX/JSON</name>
+			<description>Favorite Songs with AJAX/JSON</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab5</link>
+			<labNum>Lab 5</labNum>
+			<name>Front End Optimization</name>
+			<description>Optimizing Front End of Website</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab6</link>
+			<labNum>Lab 6</labNum>
+			<name>PHP</name>
+			<description>Using PHP for calculator</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab7</link>
+			<labNum>Lab 7</labNum>
+			<name>Quiz 1 Update</name>
+			<description>Adding Websys file to github and updating style</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab8</link>
+			<labNum>Lab 8</labNum>
+			<name>SQL</name>
+			<description>Using SQL to create database</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab9</link>
+			<labNum>Lab 9</labNum>
+			<name>Place holder</name>
+			<description>Place holder</description>
+		</lab>
+		<lab>
+			<link>./projects/labs/lab10</link>
+			<labNum>Lab 10</labNum>
+			<name>Place holder</name>
+			<description>Place holder</description>
+		</lab>
+	</labs>
+
+	<homeworks>
+		<homework>
+			<link>./projects/homeworks/homework1</link>
+			<homeworkNum>Homework 1</homeworkNum>
+			<name>Resume</name>
+			<description>Resume using CSS and HTML</description>
+		</homework>
+		<homework>
+			<link>./projects/homeworks/homework2</link>
+			<homeworkNum>Homework 2</homeworkNum>
+			<name>Place holder</name>
+			<description>Place holder</description>
+		</homework>
+	</homeworks>
+
+</webSystems>
