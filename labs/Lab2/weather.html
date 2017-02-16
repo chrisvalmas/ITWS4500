@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title>Your Weather</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="weather.css">
+    <link rel="shortcut icon" href="">
+</head>
+<body>
+
+    <h1 id="location"></h1>
+    <div id="weather" class="container">
+        <div class="row">
+            <div class="col-sm-offset-3 col-sm-3">
+                <div id="weatherIcon"></div>
+                <div id="temperature"></div>
+            </div>
+            <div class=" col-sm-offset-1 col-sm-3">
+                <div id="isCloudy"></div>
+                <div id="wind"></div>
+                <div id="humidity"></div>
+            </div>
+            <div class="col-sm-2"></div>
+        </div>
+    </div>
+    
+    <div id="forecast" class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="forecastS"></div>
+            </div>
+        </div>
+    </div>
+    <script
+  src="https://code.jquery.com/jquery-3.1.1.js"
+  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+  crossorigin="anonymous"></script>
+    <script src="weather.js"></script>
+</body>
+</html>
